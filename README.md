@@ -63,32 +63,32 @@ It’s true that it gets stuck in the local optimal solution and needs a valid s
 Below are the analysis results with the various instances ( cost decimals are truncated for clarity )
 
 1. Universe size: 100, Number of sets: 10, Density: 0.2    
-![image 1](images\image-1.png)  
+![image 1](https://github.com/imEmaa/CI2024_lab1/blob/main/images/image-1.png)  
 Initial cost: -316, Final cost: -316 ( last step: 0 )  
 <br><br>
 
 2. Universe size: 1'000, Number of sets: 100, Density: 0.2  
-![image 2](images\image-2.png)  
+![image 2](https://github.com/imEmaa/CI2024_lab1/blob/main/images/image-2.png)  
 Initial cost: -34070, Final cost: -7603 ( last step: 230 )  
 <br><br>
 
 3. Universe size: 10'000, Number of sets: 1'000, Density: 0.2  
-![image 3](images\image-3.png)
+![image 3](https://github.com/imEmaa/CI2024_lab1/blob/main/images/image-3.png)
 Initial cost: -4279700, Final cost: -137692 ( last step: 4899 )  
 <br><br>
 
 4. Universe size: 100'000, Number of sets: 10'000, Density: 0.1  
-![image 4](images\image-4.png)  
+![image 4](https://github.com/imEmaa/CI2024_lab1/blob/main/images/image-4.png)  
 Initial cost: -34070, Final cost: -7603 ( last step: 230 )  
 <br><br>
 
 5. Universe size: 100'000, Number of sets: 10'000, Density: 0.2  
-![image 5](images\image-5.png)
+![image 5](https://github.com/imEmaa/CI2024_lab1/blob/main/images/image-5.png)
 Initial cost: -538376501, Final cost: -2100487 ( last step: 66860 )  
 <br><br>
 
 6. Universe size: 100'000, Number of sets: 10'000, Density: 0.3  
-![image 6](images\image-6.png)
+![image 6](https://github.com/imEmaa/CI2024_lab1/blob/main/images/image-6.png)
 Initial cost: -841012864, Final cost: -2188389 ( last step: 62922 )  
 
 ### Algorithm
