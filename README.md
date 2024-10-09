@@ -79,7 +79,7 @@ Initial cost: -4279700, Final cost: -137692 ( last step: 4899 )
 
 4. Universe size: 100'000, Number of sets: 10'000, Density: 0.1  
 ![image 4](https://github.com/imEmaa/CI2024_lab1/blob/main/images/image-4.png)  
-Initial cost: -34070, Final cost: -7603 ( last step: 230 )  
+Initial cost: -251206842, Final cost: -1960049 ( last step: 97849 )  
 <br><br>
 
 5. Universe size: 100'000, Number of sets: 10'000, Density: 0.2  
